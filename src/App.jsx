@@ -28,7 +28,7 @@ const App = () => {
       <Search />
       <Search />
       <Search />
-      <Search />
+      <TodoList />
       <Search />
       <Search />
       <div className="todo__info">
