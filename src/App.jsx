@@ -29,6 +29,7 @@ const App = () => {
       <Search />
       <Search />
       <TodoList />
+      <TodoList />
       <Search />
       <Search />
       <div className="todo__info">
