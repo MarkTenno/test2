@@ -12,7 +12,7 @@ const TodoList = () => {
                     className="todo-item__label"
                     htmlFor="task-1"
                 >
-                    Task 1
+                    Task 12
                 </label>
                 <button
                     className="todo-item__delete-button"

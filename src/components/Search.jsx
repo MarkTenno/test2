@@ -7,7 +7,7 @@ const Search = () => {
                     className="field__label"
                     htmlFor="search-task"
                 >
-                    Search task
+                    Search task #1
                 </label>
                 {/* {arrTest.map(item => <p>{item}</p>)} */}
                 <input
